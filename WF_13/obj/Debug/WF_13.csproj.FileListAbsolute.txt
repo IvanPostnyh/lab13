@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\WF_13\WF_13\bin\Debug\WF_13.exe.config
+C:\Users\User\source\repos\WF_13\WF_13\bin\Debug\WF_13.exe
+C:\Users\User\source\repos\WF_13\WF_13\bin\Debug\WF_13.pdb
+C:\Users\User\source\repos\WF_13\WF_13\obj\Debug\WF_13.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WF_13\WF_13\obj\Debug\WF_13.Form1.resources
+C:\Users\User\source\repos\WF_13\WF_13\obj\Debug\WF_13.Properties.Resources.resources
+C:\Users\User\source\repos\WF_13\WF_13\obj\Debug\WF_13.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WF_13\WF_13\obj\Debug\WF_13.exe
+C:\Users\User\source\repos\WF_13\WF_13\obj\Debug\WF_13.pdb
